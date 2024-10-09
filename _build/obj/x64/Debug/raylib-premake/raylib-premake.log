@@ -1,0 +1,7 @@
+﻿  model.cpp
+C:\Users\famil\OneDrive\Desktop\raylib-premake\game\src\model.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  shape.cpp
+C:\Users\famil\OneDrive\Desktop\raylib-premake\game\src\shape.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  view.cpp
+  Generating Code...
+  raylib-premake.vcxproj -> C:\Users\famil\OneDrive\Desktop\raylib-premake\_bin\Debug\raylib-premake.exe
